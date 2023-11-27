@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    display: flex;
+    gap: 50px;
+   flex-direction: row;
+   flex-wrap: wrap;
+   height: 100%;
+    background: red;
+    
+}
+.container_box{
+    width: 400px;
+    height: 100%;
+    margin: 33px;
+    margin-bottom: 30px;
+    background: rgb(255, 255, 255);   
+}
+.container_box h1,h2,h3,h4,h5{
+    margin: 30px;
+}
+.btn_container{
+    display: flex;
+
+}
+.btn{
+    margin-left: 30px;
+    height: 40px;
+    background: rgb(24,219,234);
+background: linear-gradient(50deg, rgba(24,219,234,1) 0%, rgba(1,35,33,1) 100%);
+color: white;
+font-size: 13px;
+font-weight: bold;
+margin: 20px;
+}
+h1{
+    font-size: 28px;
+}

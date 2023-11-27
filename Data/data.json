@@ -1,0 +1,116 @@
+{
+  "StudentDetails": [
+    {
+      "name": "Vasanth T",
+      "bus": 121,
+      "blood": "AB -Negative",
+      "address": "Bommidi ,Pappireddeipatti",
+      "standard": "10-th",
+      "id": 1
+    },
+    {
+      "id": 1,
+      "name": "Vicky",
+      "bus": 121,
+      "address": "Harur,Salem,TamilNadu-636905",
+      "standard": "10-th",
+      "bloodgroup": "B+"
+    },
+    {
+      "name": "Manoj Kumar B",
+      "bus": "121",
+      "blood": "B+",
+      "address": "Dubai Dubai Kuruku Santhu Dubai Main Road Dubai-98765432",
+      "standard": "12",
+      "id": 3
+    },
+    {
+      "name": "Manoj Kumar B",
+      "bus": "121",
+      "blood": "B+",
+      "address": "Dubai Dubai Kuruku Santhu Dubai Main Road Dubai-98765432",
+      "standard": "12",
+      "id": 4
+    },
+    {
+      "name": "Manoj Kumar B",
+      "bus": "121",
+      "blood": "B+",
+      "address": "Dubai Dubai Kuruku Santhu Dubai Main Road Dubai-98765432",
+      "standard": "12",
+      "id": 5
+    },
+    {
+      "name": "Meganathan",
+      "bus": "123",
+      "blood": "A-",
+      "address": "Dubai Local Bye-pass Hoghway Road Vellore",
+      "standard": "1st",
+      "id": 6
+    },
+    {
+      "name": "Meganathan",
+      "bus": "123",
+      "blood": "A-",
+      "address": "Dubai Local Bye-pass Hoghway Road Vellore",
+      "standard": "1st",
+      "id": 7
+    },
+    {
+      "name": "Meganathan",
+      "bus": "123",
+      "blood": "A-",
+      "address": "Dubai Local Bye-pass Hoghway Road Vellore",
+      "standard": "1st",
+      "id": 8
+    },
+    {
+      "name": "Meganathan",
+      "bus": "123",
+      "blood": "A-",
+      "address": "Dubai Local Bye-pass Hoghway Road Vellore",
+      "standard": "1st",
+      "id": 9
+    },
+    {
+      "name": "Meganathan",
+      "bus": "123",
+      "blood": "A-",
+      "address": "Dubai Local Bye-pass Hoghway Road Vellore",
+      "standard": "1st",
+      "id": 10
+    },
+    {
+      "name": "Meganathan",
+      "bus": "123",
+      "blood": "A-",
+      "address": "Dubai Local Bye-pass Hoghway Road Vellore",
+      "standard": "1st",
+      "id": 11
+    },
+    {
+      "name": "Rajesh",
+      "bus": "1234",
+      "blood": "0-",
+      "address": "Thirupattur Tamilnadu,India-636905",
+      "standard": "1-standard",
+      "id": 12
+    },
+    {
+      "name": "Praveen Kumar D",
+      "bus": "118",
+      "blood": "G Negative",
+      "address": "Attur,Salem,Chennai-Salem Highway Near Second Speed Brake",
+      "standard": "UKG/LKG",
+      "id": 13
+    },
+    {
+      "name": "VIKI",
+      "bus": "234567890-",
+      "blood": "UYTFDGHJ",
+      "address": "I8786TRFGHUI954RGHJY UIYTRFV T GB CV 6R 456789",
+      "standard": "POIUYGFCV NK",
+      "id": 14
+    }
+  ]
+}
